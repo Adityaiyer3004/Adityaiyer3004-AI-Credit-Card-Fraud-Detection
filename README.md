@@ -1,8 +1,11 @@
 🚀 Credit Card Fraud Detection
 
 This project is an end-to-end **Credit Card Fraud Detection System** that:
+
 ✔ Detects fraudulent transactions using a Deep Learning Model  
+
 ✔ Generates AI-powered fraud reports using GPT-4  
+
 ✔ Provides an interactive UI for fraud analysts using Gradio  
 
 ------------------------------------------------------------
